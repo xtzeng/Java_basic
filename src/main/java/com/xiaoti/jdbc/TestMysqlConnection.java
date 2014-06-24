@@ -40,16 +40,16 @@ public class TestMysqlConnection {
 		} finally {
 			try {
 				if(rs != null) {
-					rs.close();
-					rs = null;
+				   rs.close();
+				   rs = null;
 				}
 				if(stmt != null) {
-					stmt.close();
-					stmt = null;
+				   stmt.close();
+				   stmt = null;
 				}
 				if(conn != null) {
-					conn.close();
-					conn = null;
+				   conn.close();
+				   conn = null;
 				}
 			} catch (SQLException e) {
 				e.printStackTrace();
