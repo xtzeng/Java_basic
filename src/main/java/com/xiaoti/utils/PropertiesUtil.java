@@ -11,7 +11,7 @@ public class PropertiesUtil {
     //属性列表  
     private static Properties properties = new Properties();  
     //配置文件的路径  
-    private static String CONFIG = "/sjdbc.properties";  
+    private static String CONFIG = "/jdbc.properties";  
     //读取资源文件, 设置输入流  
     private static InputStream is = PropertiesUtil.class.getResourceAsStream(CONFIG);  
     //数据库驱动  
