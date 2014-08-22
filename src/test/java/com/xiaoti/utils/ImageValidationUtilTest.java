@@ -5,6 +5,8 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 
+import com.immutable.alias.utils.ImageValidationUtil;
+
 
 public class ImageValidationUtilTest {
 

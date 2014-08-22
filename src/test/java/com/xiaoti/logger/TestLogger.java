@@ -2,7 +2,7 @@ package com.xiaoti.logger;
 
 import org.junit.Test;
 
-import com.xiaoti.jdbc.TestMysqlConnection;
+import com.immutable.alias.jdbc.TestMysqlConnection;
 
 public class TestLogger {
 

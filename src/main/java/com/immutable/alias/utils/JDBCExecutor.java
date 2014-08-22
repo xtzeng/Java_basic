@@ -1,4 +1,4 @@
-package com.xiaoti.utils;
+package com.immutable.alias.utils;
 
 import java.sql.Connection;  
 import java.sql.DriverManager;  

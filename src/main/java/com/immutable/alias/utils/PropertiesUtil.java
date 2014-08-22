@@ -1,4 +1,4 @@
-package com.xiaoti.utils;
+package com.immutable.alias.utils;
 
 import java.io.IOException;  
 import java.io.InputStream;  

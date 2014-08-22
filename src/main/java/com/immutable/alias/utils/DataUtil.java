@@ -1,4 +1,4 @@
-package com.xiaoti.utils;
+package com.immutable.alias.utils;
 
 import java.lang.reflect.Field;  
 import java.lang.reflect.Method;  
