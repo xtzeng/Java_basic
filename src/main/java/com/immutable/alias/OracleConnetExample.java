@@ -33,6 +33,7 @@ public class OracleConnetExample {
 	      stmt = conn.createStatement();
 	      String sql;
 	      sql = "SELECT empno, ename, job, hiredate FROM Emp";
+	      System.out.println(sql);
 	      ResultSet rs = stmt.executeQuery(sql);
 
 	      //STEP 5: Extract data from result set
