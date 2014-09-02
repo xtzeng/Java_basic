@@ -44,7 +44,7 @@ public class OracleConnetExample {
 	         String hiredate = rs.getString("hiredate");
 
 	         //Display values
-	         System.out.print("ID: " + id);
+	         System.out.print("empNo: " + id);
 	         System.out.print(", Age: " + ename);
 	         System.out.print(", First: " + job);
 	         System.out.println(", Last: " + hiredate);
